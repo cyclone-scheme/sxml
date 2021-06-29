@@ -1,6 +1,6 @@
 (package
   (name sxml)
-  (version 0.1)
+  (version "0.1.0")
   (license "BSD")
   (authors "Oleg Kiselyov (specification), Alex Shinn (code)")
   (maintainers "Arthur Maciel <arthurmaciel at gmail dot com>")
